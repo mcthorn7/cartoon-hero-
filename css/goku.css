@@ -1,29 +1,32 @@
+
 body{
 	margin: 0;
 	font-family: 'Odibee Sans', cursive;
 font-family: 'Open Sans', sans-serif;
 font-size: 20px;
-line-height: 30px;
+color: white;
+background-color: black;
+line-height: 40px;
+background-image: url(../img/four-star-dragon-ball-wallpaper.jpg);
+padding-bottom: 1600px;
+background-repeat: no-repeat;
+background-position: center;
+}
 
-}
-}
-
-}
 
 header{background-color: #d14635;
 		text-align: center;
 		padding-top: 50px;
-		padding-bottom: 50px;
-}
+		padding-bottom: 50px;}
 
-h1,h2 {
-	font-family: 'Odibee Sans', cursive;
-font-family: 'Open Sans', sans-serif;
-}
+
+
 
 header h1{
 	color: white;
 	font-size: 50px;
+	font-family: 'Odibee Sans', cursive;
+font-family: 'Open Sans', sans-serif;
 	
 }
 
@@ -32,6 +35,7 @@ header img{
 	width: 300px;
 	border: 20px solid white;
 	    background-color: crimson;
+	    margin: auto;
 
 }
 
@@ -46,6 +50,8 @@ h2{
 	font-size: 30px;
 	color: #e70c19;
 	margin-top: 0;
+	font-family: 'Odibee Sans', cursive;
+font-family: 'Open Sans', sans-serif;
 }
 
 a{color: #e70c19;}
@@ -53,6 +59,16 @@ a{color: #e70c19;}
 a:hover{
 	color: #483a94;
 }
+
+div{
+	display: block;
+	border: color: white;
+	box-sizing: border-box;
+	margin: 0 auto;
+	text-align: center;
+	color: red;
+}
+
 
 footer{background-color: #d14635;
 		text-align: center;
@@ -76,9 +92,29 @@ p.caption{
 	font-size: 15px
 }
 
+p.text{
+	background-color: none;
+	color: red
+}
+
+li.text{
+	background-color: none; 
+	color: red;
+}
+
 .center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+display: block;
+margin: auto
+width: 50%;
+}
+
+.feet {
+	display: block;
+	text-align: left;
+	font-size: 20px
+
+}
+
+.divine {
+
 }

@@ -1,4 +1,4 @@
-body{background-color: lightgrey}
+body{background-color: yellow}
 h1{
 font-size: 30px;
 color: teal;
@@ -16,11 +16,11 @@ color: green;
 .big{
 font-size: 60px;
 }
-.uppercase {
+.uppercase{
 text-transform: uppercase;
 }
 
-.big.uppercase {
+.big.uppercase{
 color:navy;
 }
 
